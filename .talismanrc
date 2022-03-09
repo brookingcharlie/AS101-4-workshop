@@ -7,4 +7,6 @@ fileignoreconfig:
   checksum: 5b21821762c97e9a27f4c3e44470d69eaec505e78eccbee869b63739c5567c7d
 - filename: .github/workflows/lint_test.yml
   checksum: 7545acdfa1cac375ef64cbb8cb381167e7fff83dd4058c7c3f6448b2b813f551
+- filename: instructions/solutions.sh
+  checksum: 74d06fb1cb80bc238f79dfd264d3af54ebc9a149fd673648cf160dbb1c4a4df3
 version: ""
